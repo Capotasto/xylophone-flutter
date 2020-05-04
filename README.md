@@ -3,6 +3,11 @@
 
 # Xylophone 🎹
 
+## Here is my result!
+|Android|iOS|
+|---|---|
+|![Finished App](https://github.com/Capotasto/dicee-flutter/blob/master/screen_shots/android.png)|![Finished App](https://github.com/Capotasto/dicee-flutter/blob/master/screen_shots/ios.png)|
+
 ## Our Goal
 
 In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
