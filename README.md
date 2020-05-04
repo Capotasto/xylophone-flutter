@@ -6,7 +6,7 @@
 ## Here is my result!
 |Android|iOS|
 |---|---|
-|![Finished App](https://github.com/Capotasto/dicee-flutter/blob/master/screen_shots/android.png)|![Finished App](https://github.com/Capotasto/dicee-flutter/blob/master/screen_shots/ios.png)|
+|![Finished App](https://github.com/Capotasto/xylophone-flutter/blob/master/screen_shots/android.png)|![Finished App](https://github.com/Capotasto/xylophone-flutter/blob/master/screen_shots/ios.png)|
 
 ## Our Goal
 
